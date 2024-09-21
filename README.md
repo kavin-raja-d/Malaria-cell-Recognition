@@ -1,6 +1,4 @@
-🦠 EXP NO: 04 - Deep Neural Network for Malaria Infected Cell Recognition
-🎯 AIM
-To develop a deep neural network for Malaria infected cell recognition and analyze its performance using a dataset of parasitized and uninfected cells.
+🦠  Deep Neural Network for Malaria Infected Cell Recognition
 
 📋 Problem Statement and Dataset
 The dataset consists of 27,558 cell images with an equal number of parasitized and uninfected cells. A level-set based algorithm was applied to detect and segment the red blood cells. The images were collected and annotated by medical professionals.
